@@ -1,0 +1,5 @@
+“In my framework, I follow a layered test data strategy.
+For static data, I use JSON files stored under /resources/testdata.
+For data-driven testing, I integrate Apache POI to read Excel sheets dynamically.
+My config manager also supports environment-specific test data, and in advanced cases, 
+I can fetch test data via APIs or databases to ensure dynamic and up-to-date inputs.”

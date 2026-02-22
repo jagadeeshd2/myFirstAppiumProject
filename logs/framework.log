@@ -1,0 +1,471 @@
+2025-12-12 22:47:06 INFO  Log - 🚀 Framework initialization started...
+2025-12-12 22:47:06 INFO  Log - ✔ Config loaded successfully.
+2025-12-12 22:47:17 INFO  Log - ✔ Appium driver launched. Session ID: aa45c1bb-b8bc-4c68-ba60-15f40efe91c4
+2025-12-12 22:57:41 INFO  Log - 🚀 Framework initialization started...
+2025-12-12 22:57:41 INFO  Log - ✔ Config loaded successfully.
+2025-12-12 22:57:52 INFO  Log - ✔ Appium driver launched. Session ID: 669a6873-51c1-4096-9164-df74dcf71792
+2025-12-12 23:59:34 INFO  Log - 🚀 Framework initialization started...
+2025-12-12 23:59:34 INFO  Log - ✔ Config loaded successfully.
+2025-12-12 23:59:46 INFO  Log - ✔ Appium driver launched. Session ID: dd968268-0981-42fc-a3db-d9a68cf4dc89
+2025-12-13 00:03:01 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 00:03:01 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 00:03:14 INFO  Log - ✔ Appium driver launched. Session ID: 19a31639-041d-49be-a447-a685c376e852
+2025-12-13 00:04:07 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 00:04:07 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 00:04:22 INFO  Log - ✔ Appium driver launched. Session ID: e650dfde-6dd2-4d6e-90d2-e7f45edeb6c6
+2025-12-13 00:05:47 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 00:05:47 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 00:06:01 INFO  Log - ✔ Appium driver launched. Session ID: fbd0c8dc-9bb5-4e14-a1ef-026a60f499bd
+2025-12-13 00:07:11 DEBUG Log - <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index="0" class="hierarchy" rotation="0" width="720" height="1460">
+  <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+    <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+      <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+        <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" resource-id="app.daalchini.com:id/action_bar_root" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+          <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="android:id/content" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+            <android.widget.RelativeLayout index="0" package="app.daalchini.com" class="android.widget.RelativeLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,1504]" displayed="true">
+              <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" resource-id="app.daalchini.com:id/app_bar_layout" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,160]" displayed="true">
+                <android.view.ViewGroup index="0" package="app.daalchini.com" class="android.view.ViewGroup" text="" resource-id="app.daalchini.com:id/topAppBar" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,160]" displayed="true">
+                  <android.widget.ImageButton index="0" package="app.daalchini.com" class="android.widget.ImageButton" text="" content-desc="Navigate up" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][112,160]" displayed="true" />
+                  <android.widget.TextView index="1" package="app.daalchini.com" class="android.widget.TextView" text="Search" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[144,77][271,131]" displayed="true" />
+                </android.view.ViewGroup>
+              </android.widget.LinearLayout>
+              <android.widget.FrameLayout index="1" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="app.daalchini.com:id/empty_car_layover_search" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,160][720,1504]" displayed="true">
+                <android.view.ViewGroup index="0" package="app.daalchini.com" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,160][720,1504]" displayed="true">
+                  <android.widget.ImageView index="0" package="app.daalchini.com" class="android.widget.ImageView" text="" resource-id="app.daalchini.com:id/imageView_empty" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[120,488][600,914]" displayed="true" />
+                  <android.widget.TextView index="1" package="app.daalchini.com" class="android.widget.TextView" text="Search food and vending machines around you" resource-id="app.daalchini.com:id/textView_empty_desc" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[70,1000][651,1038]" displayed="true" />
+                </android.view.ViewGroup>
+              </android.widget.FrameLayout>
+              <android.widget.FrameLayout index="2" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="app.daalchini.com:id/search_bar_layout" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,192][688,289]" displayed="true">
+                <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,192][688,289]" displayed="true">
+                  <android.widget.ImageView index="0" package="app.daalchini.com" class="android.widget.ImageView" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,200][112,280]" displayed="true" />
+                  <android.widget.EditText index="1" package="app.daalchini.com" class="android.widget.EditText" text="Find items or machine" resource-id="app.daalchini.com:id/searchEditText" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" long-clickable="true" password="false" scrollable="false" selected="false" bounds="[112,192][688,289]" displayed="true" hint="Find items or machine" />
+                </android.widget.LinearLayout>
+              </android.widget.FrameLayout>
+              <androidx.recyclerview.widget.RecyclerView index="3" package="app.daalchini.com" class="androidx.recyclerview.widget.RecyclerView" text="" resource-id="app.daalchini.com:id/recyclerView" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,321][720,1504]" displayed="true" />
+            </android.widget.RelativeLayout>
+          </android.widget.FrameLayout>
+        </android.widget.LinearLayout>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+    <android.view.View index="2" package="app.daalchini.com" class="android.view.View" text="" resource-id="android:id/navigationBarBackground" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,1504][720,1600]" displayed="true" />
+  </android.widget.FrameLayout>
+</hierarchy>
+2025-12-13 01:18:02 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 01:18:02 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 01:18:16 INFO  Log - ✔ Appium driver launched. Session ID: e9a58447-4294-4f52-828f-742aa7cb6628
+2025-12-13 02:01:37 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:01:37 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:01:48 INFO  Log - ✔ Appium driver launched. Session ID: 09e200a6-d4a8-4df8-b131-f5176b6b231a
+2025-12-13 02:04:41 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:04:41 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:04:51 INFO  Log - ✔ Appium driver launched. Session ID: d1c7652c-fd70-411c-8688-63dd8b97d819
+2025-12-13 02:09:36 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:09:36 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:09:47 INFO  Log - ✔ Appium driver launched. Session ID: f64ddeab-25b0-4f6f-81e3-87aaf7d279fd
+2025-12-13 02:19:53 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:19:53 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:20:54 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:20:54 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:21:04 INFO  Log - ✔ Appium driver launched. Session ID: f7d78a48-a490-4f4b-bad9-be9853078b82
+2025-12-13 02:34:51 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:34:51 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:35:02 INFO  Log - ✔ Appium driver launched. Session ID: 7df99fd3-fe6d-4617-954d-96a31eba0aa0
+2025-12-13 02:37:07 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:37:07 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:37:18 INFO  Log - ✔ Appium driver launched. Session ID: de78bd1e-30f4-40f5-bd9d-7085454854b5
+2025-12-13 02:38:26 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:38:26 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:38:38 INFO  Log - ✔ Appium driver launched. Session ID: 0ade219a-31be-4911-bfde-33f2b59c16ed
+2025-12-13 02:39:50 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:39:50 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:40:02 INFO  Log - ✔ Appium driver launched. Session ID: b7ad2b74-beec-4068-8fd2-f8ec0eb8da05
+2025-12-13 02:41:51 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:41:51 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:42:04 INFO  Log - ✔ Appium driver launched. Session ID: d08ed0ab-80c1-40a8-920c-90a0589311da
+2025-12-13 02:49:17 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 02:49:17 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 02:49:28 INFO  Log - ✔ Appium driver launched. Session ID: 17b23f38-e3bd-490d-a79a-166f093434e7
+2025-12-13 03:00:09 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 03:00:09 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 03:00:20 INFO  Log - ✔ Appium driver launched. Session ID: 41ad4d07-a501-47c7-aa83-8f09706feb6e
+2025-12-13 03:08:47 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 03:08:47 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 03:08:58 INFO  Log - ✔ Appium driver launched. Session ID: e5b42883-7246-4abd-ac00-030136ef5c3e
+2025-12-13 03:11:14 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 03:11:14 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 03:11:26 INFO  Log - ✔ Appium driver launched. Session ID: e98e1281-9c8f-43d6-83e4-0fa7924bb441
+2025-12-13 03:14:21 DEBUG Log - <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index="0" class="hierarchy" rotation="0" width="720" height="1460">
+  <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+    <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+      <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+        <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" resource-id="app.daalchini.com:id/action_bar_root" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+          <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="android:id/content" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+            <android.widget.RelativeLayout index="0" package="app.daalchini.com" class="android.widget.RelativeLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,1504]" displayed="true">
+              <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" resource-id="app.daalchini.com:id/app_bar_layout" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,160]" displayed="true">
+                <android.view.ViewGroup index="0" package="app.daalchini.com" class="android.view.ViewGroup" text="" resource-id="app.daalchini.com:id/topAppBar" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,160]" displayed="true">
+                  <android.widget.ImageButton index="0" package="app.daalchini.com" class="android.widget.ImageButton" text="" content-desc="Navigate up" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][112,160]" displayed="true" />
+                  <android.widget.TextView index="1" package="app.daalchini.com" class="android.widget.TextView" text="Search" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[144,77][271,131]" displayed="true" />
+                </android.view.ViewGroup>
+              </android.widget.LinearLayout>
+              <android.widget.FrameLayout index="1" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="app.daalchini.com:id/empty_car_layover_search" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,160][720,1504]" displayed="true">
+                <android.view.ViewGroup index="0" package="app.daalchini.com" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,160][720,1504]" displayed="true">
+                  <android.widget.ImageView index="0" package="app.daalchini.com" class="android.widget.ImageView" text="" resource-id="app.daalchini.com:id/imageView_empty" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[120,488][600,914]" displayed="true" />
+                  <android.widget.TextView index="1" package="app.daalchini.com" class="android.widget.TextView" text="Search food and vending machines around you" resource-id="app.daalchini.com:id/textView_empty_desc" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[70,1000][651,1038]" displayed="true" />
+                </android.view.ViewGroup>
+              </android.widget.FrameLayout>
+              <android.widget.FrameLayout index="2" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="app.daalchini.com:id/search_bar_layout" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,192][688,289]" displayed="true">
+                <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,192][688,289]" displayed="true">
+                  <android.widget.ImageView index="0" package="app.daalchini.com" class="android.widget.ImageView" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,200][112,280]" displayed="true" />
+                  <android.widget.EditText index="1" package="app.daalchini.com" class="android.widget.EditText" text="Find items or machine" resource-id="app.daalchini.com:id/searchEditText" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="true" long-clickable="true" password="false" scrollable="false" selected="false" bounds="[112,192][688,289]" displayed="true" hint="Find items or machine" />
+                </android.widget.LinearLayout>
+              </android.widget.FrameLayout>
+              <androidx.recyclerview.widget.RecyclerView index="3" package="app.daalchini.com" class="androidx.recyclerview.widget.RecyclerView" text="" resource-id="app.daalchini.com:id/recyclerView" checkable="false" checked="false" clickable="false" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,321][720,1504]" displayed="true" />
+            </android.widget.RelativeLayout>
+          </android.widget.FrameLayout>
+        </android.widget.LinearLayout>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+    <android.view.View index="2" package="app.daalchini.com" class="android.view.View" text="" resource-id="android:id/navigationBarBackground" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,1504][720,1600]" displayed="true" />
+  </android.widget.FrameLayout>
+</hierarchy>
+2025-12-13 17:04:02 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 17:04:02 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:10:06 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:10:06 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:10:17 INFO  Log - ✔ Appium driver launched. Session ID: ca899890-f975-4e29-8017-44acc0f3237b
+2025-12-13 19:11:26 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:11:26 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:11:35 INFO  Log - ✔ Appium driver launched. Session ID: 0d3d2afc-b106-4f89-baef-10ea1d097250
+2025-12-13 19:13:41 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:13:41 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:13:50 INFO  Log - ✔ Appium driver launched. Session ID: da9f6ba2-edd2-4def-9160-b1c4f53abdf1
+2025-12-13 19:15:57 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:15:57 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:16:12 INFO  Log - ✔ Appium driver launched. Session ID: f43745d1-1dad-4191-9ba9-9bb02d48b516
+2025-12-13 19:17:52 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:17:52 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:18:06 INFO  Log - ✔ Appium driver launched. Session ID: 73560578-6f97-4314-8d96-466ca3ef1af4
+2025-12-13 19:23:33 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:23:33 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:23:51 INFO  Log - ✔ Appium driver launched. Session ID: 51127f44-e780-4952-bb01-6ae967894e86
+2025-12-13 19:26:15 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:26:15 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:26:29 INFO  Log - ✔ Appium driver launched. Session ID: 938e8212-36fc-4202-b1dc-a77cfe287ad9
+2025-12-13 19:30:42 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:30:42 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:30:56 INFO  Log - ✔ Appium driver launched. Session ID: f753721c-b960-4582-b531-97851652bf78
+2025-12-13 19:32:56 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:32:56 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:33:10 INFO  Log - ✔ Appium driver launched. Session ID: d0fa9b38-ca9e-4c0c-b88f-f2c7255c06be
+2025-12-13 19:49:03 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:49:03 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:49:18 INFO  Log - ✔ Appium driver launched. Session ID: c900a32c-99eb-46bb-9794-172d530e7d92
+2025-12-13 19:53:53 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:53:53 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:54:08 INFO  Log - ✔ Appium driver launched. Session ID: 31381c93-d9de-4857-9adc-97380a62c993
+2025-12-13 19:56:49 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 19:56:49 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 19:57:03 INFO  Log - ✔ Appium driver launched. Session ID: 819cd8f8-536a-4115-873d-5b1329537a92
+2025-12-13 19:58:04 INFO  Log - item added tocart successfully
+2025-12-13 20:19:25 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 20:19:25 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 20:50:55 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 20:50:55 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 20:52:30 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 20:52:30 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 20:52:42 INFO  Log - ✔ Appium driver launched. Session ID: 653e17de-0d19-4f4c-86ba-5d6a26bcdc62
+2025-12-13 20:53:38 INFO  Log - item added tocart successfully
+2025-12-13 20:55:00 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 20:55:00 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 20:55:11 INFO  Log - ✔ Appium driver launched. Session ID: 93e6bd92-2f23-4ae4-ba4c-2068c33722b0
+2025-12-13 20:56:05 INFO  Log - item added tocart successfully
+2025-12-13 20:57:48 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 20:57:48 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 20:57:58 INFO  Log - ✔ Appium driver launched. Session ID: 8c7f8038-4fd5-498e-b010-27efd2a39a73
+2025-12-13 20:58:55 INFO  Log - item added tocart successfully
+2025-12-13 20:59:15 INFO  Log - item removed from cart successfully
+2025-12-13 23:43:40 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 23:43:40 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 23:43:52 INFO  Log - ✔ Appium driver launched. Session ID: b4d57df5-fb47-4668-b0a5-2404e375ee1a
+2025-12-13 23:45:38 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 23:45:38 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 23:45:49 INFO  Log - ✔ Appium driver launched. Session ID: 7ff6c20e-670f-41d2-8c53-b7260c4340df
+2025-12-13 23:47:24 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 23:47:24 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 23:47:34 INFO  Log - ✔ Appium driver launched. Session ID: f6a55818-dbbe-472b-afe5-a5b7967da207
+2025-12-13 23:49:24 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 23:49:24 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 23:49:35 INFO  Log - ✔ Appium driver launched. Session ID: 492aed03-4022-452c-9ef7-5a3c4393aa3c
+2025-12-13 23:53:29 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 23:53:29 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 23:54:20 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 23:54:20 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 23:54:31 INFO  Log - ✔ Appium driver launched. Session ID: f6ffbb0c-0d9b-4a8c-801d-8a449b497507
+2025-12-13 23:55:51 INFO  Log - 🚀 Framework initialization started...
+2025-12-13 23:55:51 INFO  Log - ✔ Config loaded successfully.
+2025-12-13 23:56:05 INFO  Log - ✔ Appium driver launched. Session ID: d5e03acb-cdf8-49a0-9780-38b223c0a2de
+2025-12-14 00:00:15 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:00:15 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:00:29 INFO  Log - ✔ Appium driver launched. Session ID: 69c396db-2176-4bfe-9219-ebf8304f5bcc
+2025-12-14 00:02:54 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:02:54 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:03:08 INFO  Log - ✔ Appium driver launched. Session ID: 990c627c-e0b7-498a-b525-40a2dc96c508
+2025-12-14 00:05:11 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:05:11 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:06:25 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:06:25 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:06:41 INFO  Log - ✔ Appium driver launched. Session ID: 6d9050ca-2dd6-4ae2-b92e-0442c1a013a2
+2025-12-14 00:16:54 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:16:54 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:17:06 INFO  Log - ✔ Appium driver launched. Session ID: 17f975f1-fc6e-494e-8f2b-087eb98a53fd
+2025-12-14 00:19:06 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:19:06 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:19:22 INFO  Log - ✔ Appium driver launched. Session ID: becbbdf9-18fd-4ee1-847a-561fd2ab9dca
+2025-12-14 00:32:26 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:32:26 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:32:40 INFO  Log - ✔ Appium driver launched. Session ID: d95da1ab-ca20-4d92-a098-f5a9cd5c1b46
+2025-12-14 00:42:13 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:42:13 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:42:28 INFO  Log - ✔ Appium driver launched. Session ID: 63ba032b-71cc-4791-acf8-b42ce0ef9bf7
+2025-12-14 00:47:04 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:47:04 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:47:19 INFO  Log - ✔ Appium driver launched. Session ID: 01158446-0d8e-41a4-8b0e-b1fe407e2dd1
+2025-12-14 00:49:08 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:49:08 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:49:26 INFO  Log - ✔ Appium driver launched. Session ID: 53ff6e4a-e746-49aa-95d4-293cad63e00c
+2025-12-14 00:50:45 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:50:45 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:50:59 INFO  Log - ✔ Appium driver launched. Session ID: 173c2e5c-93b3-424b-a723-843bd6457d71
+2025-12-14 00:56:02 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 00:56:02 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 00:56:16 INFO  Log - ✔ Appium driver launched. Session ID: f8db44de-7d6d-4fe1-9853-60e76241d8c5
+2025-12-14 01:06:26 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 01:06:26 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 01:06:40 INFO  Log - ✔ Appium driver launched. Session ID: d43d430e-cc19-4611-ad41-9c895412142e
+2025-12-14 01:10:43 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 01:10:43 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 01:10:57 INFO  Log - ✔ Appium driver launched. Session ID: 2568a46d-3d5d-4ab4-912a-68e294bd4a2a
+2025-12-14 01:34:50 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 01:34:50 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 01:35:05 INFO  Log - ✔ Appium driver launched. Session ID: 1c258018-e743-404c-9d06-bad21a6e324e
+2025-12-14 01:42:29 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 01:42:29 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 01:42:43 INFO  Log - ✔ Appium driver launched. Session ID: 7788afc8-219a-4dcb-a1f2-b65fc4c0da9a
+2025-12-14 01:50:52 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 01:50:52 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 01:51:06 INFO  Log - ✔ Appium driver launched. Session ID: 402e94ac-46eb-4920-9735-828d6fd3f2d3
+2025-12-14 03:00:06 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:00:06 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:00:21 INFO  Log - ✔ Appium driver launched. Session ID: af8e0e66-fdc9-4353-8413-80297cd76f2b
+2025-12-14 03:04:11 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:04:11 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:04:25 INFO  Log - ✔ Appium driver launched. Session ID: 8cc52331-499c-4083-a348-779950f8a53b
+2025-12-14 03:24:34 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:24:34 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:24:48 INFO  Log - ✔ Appium driver launched. Session ID: 68f0de7b-6e43-4425-b4aa-6a4b221f6ced
+2025-12-14 03:26:49 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:26:49 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:27:04 INFO  Log - ✔ Appium driver launched. Session ID: feed6e1d-9905-4d35-b1d0-a25e0aa34f14
+2025-12-14 03:34:50 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:34:50 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:35:04 INFO  Log - ✔ Appium driver launched. Session ID: e56f3ca6-e092-4983-9d99-b1c8aa0a71e5
+2025-12-14 03:41:30 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:41:30 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:41:44 INFO  Log - ✔ Appium driver launched. Session ID: b7d976c9-3f76-439a-a910-ed7983e03d2d
+2025-12-14 03:49:16 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:49:16 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:49:30 INFO  Log - ✔ Appium driver launched. Session ID: 5b4eb300-b62b-45ed-bed9-073cad301303
+2025-12-14 03:52:08 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:52:08 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:52:22 INFO  Log - ✔ Appium driver launched. Session ID: b4946dc6-e2c3-4263-83d5-f777d93b5209
+2025-12-14 03:56:25 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 03:56:25 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 03:56:39 INFO  Log - ✔ Appium driver launched. Session ID: 768682c6-2460-4bfe-b17b-8537a21f8b58
+2025-12-14 04:00:55 DEBUG Log - <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index="0" class="hierarchy" rotation="0" width="720" height="1460">
+  <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+    <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+      <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+        <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" resource-id="app.daalchini.com:id/action_bar_root" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+          <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="android:id/content" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+            <android.widget.RelativeLayout index="0" package="app.daalchini.com" class="android.widget.RelativeLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,1504]" displayed="true">
+              <android.view.ViewGroup index="0" package="app.daalchini.com" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,1504]" displayed="true">
+                <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,160]" displayed="true">
+                  <android.view.ViewGroup index="0" package="app.daalchini.com" class="android.view.ViewGroup" text="" resource-id="app.daalchini.com:id/topAppBar" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,160]" displayed="true">
+                    <android.widget.TextView index="0" package="app.daalchini.com" class="android.widget.TextView" text="Hello" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,56][127,110]" displayed="true" />
+                    <android.widget.TextView index="1" package="app.daalchini.com" class="android.widget.TextView" text="Ayush Rastogi  " checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,110][257,153]" displayed="true" />
+                    <android.widget.RelativeLayout index="2" package="app.daalchini.com" class="android.widget.RelativeLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[540,79][700,129]" displayed="true">
+                      <android.widget.ImageView index="0" package="app.daalchini.com" class="android.widget.ImageView" text="" resource-id="app.daalchini.com:id/cart_image" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[584,79][634,129]" displayed="true" />
+                      <android.widget.ImageView index="1" package="app.daalchini.com" class="android.widget.ImageView" text="" resource-id="app.daalchini.com:id/qr" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[650,79][700,129]" displayed="true" />
+                    </android.widget.RelativeLayout>
+                  </android.view.ViewGroup>
+                </android.widget.LinearLayout>
+                <android.widget.FrameLayout index="1" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="app.daalchini.com:id/fragment_container" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,160][720,1504]" displayed="true">
+                  <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,160][720,1504]" displayed="true" />
+                </android.widget.FrameLayout>
+              </android.view.ViewGroup>
+            </android.widget.RelativeLayout>
+          </android.widget.FrameLayout>
+        </android.widget.LinearLayout>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>
+2025-12-14 04:01:35 INFO  Log - item added tocart successfully
+2025-12-14 04:02:08 INFO  Log - item removed from cart successfully
+2025-12-14 04:05:53 INFO  Log - 🚀 Framework initialization started...
+2025-12-14 04:05:53 INFO  Log - ✔ Config loaded successfully.
+2025-12-14 04:06:07 INFO  Log - ✔ Appium driver launched. Session ID: 55cfbf21-4fcd-4606-867f-f643d8bd0a86
+2025-12-14 04:11:14 DEBUG Log - <?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index="0" class="hierarchy" rotation="0" width="720" height="1460">
+  <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+    <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+      <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+        <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" resource-id="app.daalchini.com:id/action_bar_root" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+          <android.widget.FrameLayout index="0" package="app.daalchini.com" class="android.widget.FrameLayout" text="" resource-id="android:id/content" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][720,1600]" displayed="true">
+            <android.widget.RelativeLayout index="0" package="app.daalchini.com" class="android.widget.RelativeLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,1504]" displayed="true">
+              <android.view.ViewGroup index="0" package="app.daalchini.com" class="android.view.ViewGroup" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,1504]" displayed="true">
+                <android.widget.LinearLayout index="0" package="app.daalchini.com" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,160]" displayed="true">
+                  <android.view.ViewGroup index="0" package="app.daalchini.com" class="android.view.ViewGroup" text="" resource-id="app.daalchini.com:id/topAppBar" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,48][720,160]" displayed="true">
+                    <android.widget.TextView index="0" package="app.daalchini.com" class="android.widget.TextView" text="Hello" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,56][127,110]" displayed="true" />
+                    <android.widget.TextView index="1" package="app.daalchini.com" class="android.widget.TextView" text="Ayush Rastogi  " checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[32,110][257,153]" displayed="true" />
+                    <android.widget.RelativeLayout index="2" package="app.daalchini.com" class="android.widget.RelativeLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[540,79][700,129]" displayed="true">
+                      <android.widget.ImageView index="0" package="app.daalchini.com" class="android.widget.ImageView" text="" resource-id="app.daalchini.com:id/cart_image" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[584,79][634,129]" displayed="true" />
+                      <android.widget.ImageView index="1" package="app.daalchini.com" class="android.widget.ImageView" text="" resource-id="app.daalchini.com:id/qr" checkable="false" checked="false" clickable="true" enabled="true" focusable="true" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[650,79][700,129]" displayed="true" />
+                    </android.widget.RelativeLayout>
+                  </android.view.ViewGroup>
+                </android.widget.LinearLayout>
+              </android.view.ViewGroup>
+            </android.widget.RelativeLayout>
+          </android.widget.FrameLayout>
+        </android.widget.LinearLayout>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+  </android.widget.FrameLayout>
+</hierarchy>
+2025-12-14 04:12:42 INFO  Log - item added tocart successfully
+2025-12-14 04:13:14 INFO  Log - item removed from cart successfully
+2025-12-18 23:45:43 INFO  Log - 🚀 Framework initialization started...
+2025-12-18 23:45:43 INFO  Log - ✔ Config loaded successfully.
+2025-12-18 23:45:59 INFO  Log - ✔ Appium driver launched. Session ID: c96cd89d-9bd4-4663-99a1-5a53bc3e4cdc
+2025-12-18 23:47:58 INFO  Log - 🚀 Framework initialization started...
+2025-12-18 23:47:58 INFO  Log - ✔ Config loaded successfully.
+2025-12-18 23:48:11 INFO  Log - ✔ Appium driver launched. Session ID: 9867465f-56a1-41df-8679-6255b0cb030f
+2025-12-18 23:53:19 INFO  Log - 🚀 Framework initialization started...
+2025-12-18 23:53:19 INFO  Log - ✔ Config loaded successfully.
+2025-12-18 23:53:33 INFO  Log - ✔ Appium driver launched. Session ID: 59f28554-6bc6-4fcd-93a2-e2e7b22156a6
+2025-12-18 23:54:08 INFO  Log - 🚀 Framework initialization started...
+2025-12-18 23:54:08 INFO  Log - ✔ Config loaded successfully.
+2025-12-18 23:54:22 INFO  Log - ✔ Appium driver launched. Session ID: 7c727a04-c261-40fc-9d8f-24db3f6c4be8
+2025-12-19 00:02:13 INFO  Log - 🚀 Framework initialization started...
+2025-12-19 00:02:13 INFO  Log - ✔ Config loaded successfully.
+2025-12-19 00:02:26 INFO  Log - ✔ Appium driver launched. Session ID: ed2b7b6a-c647-452a-8f2f-27143996aa3f
+2025-12-19 00:08:44 INFO  Log - 🚀 Framework initialization started...
+2025-12-19 00:08:44 INFO  Log - ✔ Config loaded successfully.
+2025-12-19 00:08:58 INFO  Log - ✔ Appium driver launched. Session ID: d1da419f-f7e0-4f81-b248-250367d367ab
+2025-12-19 00:22:10 INFO  Log - 🚀 Framework initialization started...
+2025-12-19 00:22:10 INFO  Log - ✔ Config loaded successfully.
+2025-12-19 00:22:24 INFO  Log - ✔ Appium driver launched. Session ID: 6fcd1392-ba77-4eaf-88ca-9fb1c5dded6c
+2025-12-19 00:24:46 INFO  Log - 🚀 Framework initialization started...
+2025-12-19 00:24:46 INFO  Log - ✔ Config loaded successfully.
+2025-12-19 00:25:01 INFO  Log - ✔ Appium driver launched. Session ID: d83a1afa-29fc-48c2-92d4-b60e041c3835
+2025-12-25 14:00:39 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 14:00:39 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 14:00:54 INFO  Log - ✔ Appium driver launched. Session ID: 0607edb2-76da-47ea-a3e8-6604f3c8b5f5
+2025-12-25 14:02:28 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 14:02:28 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 14:02:39 INFO  Log - ✔ Appium driver launched. Session ID: 456f46d9-1571-48ca-b2c7-2c55c452b6a9
+2025-12-25 14:08:34 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 14:08:34 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 14:08:46 INFO  Log - ✔ Appium driver launched. Session ID: 6d7f50fe-a0cf-4548-a988-599010028e56
+2025-12-25 14:11:33 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 14:11:33 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 14:11:49 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 14:11:49 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 14:12:20 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 14:12:20 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 14:12:33 INFO  Log - ✔ Appium driver launched. Session ID: bcb1714e-ade7-4a6d-9a03-489f741f828c
+2025-12-25 14:38:10 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 14:38:10 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 14:38:21 INFO  Log - ✔ Appium driver launched. Session ID: d7581488-fcc3-4808-bd46-1e89a790315b
+2025-12-25 14:43:19 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 14:43:19 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 14:43:31 INFO  Log - ✔ Appium driver launched. Session ID: 1eda2dca-8d08-4737-86cf-b248f464f98c
+2025-12-25 15:07:49 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 15:07:49 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 15:08:08 INFO  Log - ✔ Appium driver launched. Session ID: 2ed18f33-7ddd-4bcf-aff2-b09ffd82e4e9
+2025-12-25 15:10:01 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 15:10:01 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 15:10:16 INFO  Log - ✔ Appium driver launched. Session ID: c6184923-6871-411c-82ee-3a7c073e7da7
+2025-12-25 16:29:03 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 16:29:03 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 17:06:47 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 17:06:47 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 17:07:00 INFO  Log - ✔ Appium driver launched. Session ID: 4eee2b4f-7331-48ab-8a8e-d91aca7d206a
+2025-12-25 18:07:33 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 18:07:33 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 18:08:14 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 18:08:14 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 18:08:26 INFO  Log - ✔ Appium driver launched. Session ID: d45ee287-98d6-4b1e-9159-bd0d28a8ceba
+2025-12-25 18:21:40 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 18:21:40 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 18:21:52 INFO  Log - ✔ Appium driver launched. Session ID: 222083de-16b5-434f-8390-aaabfca7947e
+2025-12-25 18:25:07 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 18:25:07 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 18:25:20 INFO  Log - ✔ Appium driver launched. Session ID: e3f42968-b534-4554-95e1-774b87d74b3e
+2025-12-25 18:32:08 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 18:32:08 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 18:32:19 INFO  Log - ✔ Appium driver launched. Session ID: 21aefeab-a403-4271-a9cd-02211c9839e1
+2025-12-25 18:35:21 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 18:35:21 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 18:35:38 INFO  Log - ✔ Appium driver launched. Session ID: c1e4ac93-71a2-4303-956a-a0f70c9d8ef4
+2025-12-25 18:43:12 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 18:43:12 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 18:43:23 INFO  Log - ✔ Appium driver launched. Session ID: dd9c96ae-8bd0-4023-88f1-263b9b4008ea
+2025-12-25 18:50:16 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 18:50:16 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 18:50:27 INFO  Log - ✔ Appium driver launched. Session ID: 4a1456b1-3572-4750-b905-eadeb24837a7
+2025-12-25 19:35:01 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 19:35:01 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 19:35:15 INFO  Log - ✔ Appium driver launched. Session ID: 93f8a2c5-f794-43ec-9f53-2c50c078d391
+2025-12-25 19:42:00 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 19:42:00 INFO  Log - ✔ Config loaded successfully.
+2025-12-25 19:42:12 INFO  Log - ✔ Appium driver launched. Session ID: ee001d6d-ab98-4a3c-a02d-e2357101010c
+2025-12-25 20:09:04 INFO  Log - 🚀 Framework initialization started...
+2025-12-25 20:09:04 INFO  Log - ✔ Config loaded successfully.
+2025-12-26 15:39:20 INFO  Log - 🚀 Framework initialization started...
+2025-12-26 15:39:20 INFO  Log - ✔ Config loaded successfully.
+2025-12-26 15:39:32 INFO  Log - ✔ Appium driver launched. Session ID: 4dc774e4-af65-49a1-9131-e9f93743204b
+2025-12-26 15:43:47 INFO  Log - 🚀 Framework initialization started...
+2025-12-26 15:43:47 INFO  Log - ✔ Config loaded successfully.
+2025-12-26 15:44:05 INFO  Log - ✔ Appium driver launched. Session ID: 0f09a784-5812-444a-be4e-c650ae2c2032
+2025-12-26 15:50:38 INFO  Log - 🚀 Framework initialization started...
+2025-12-26 15:50:38 INFO  Log - ✔ Config loaded successfully.
+2025-12-26 15:50:49 INFO  Log - ✔ Appium driver launched. Session ID: c7b3fec0-87f1-447a-bb07-95b5239d6751
+2025-12-26 15:57:26 INFO  Log - 🚀 Framework initialization started...
+2025-12-26 15:57:26 INFO  Log - ✔ Config loaded successfully.
+2025-12-26 15:57:37 INFO  Log - ✔ Appium driver launched. Session ID: b972fbc5-858d-403f-9083-f25726316e4e
+2025-12-26 16:10:24 INFO  Log - 🚀 Framework initialization started...
+2025-12-26 16:10:24 INFO  Log - ✔ Config loaded successfully.
+2025-12-26 16:10:35 INFO  Log - ✔ Appium driver launched. Session ID: 13db49ad-9a76-4b40-8e1f-a3539a970f2d
+2026-01-04 01:15:18 INFO  Log - 🚀 Framework initialization started...
+2026-01-04 01:15:18 INFO  Log - ✔ Config loaded successfully.
+2026-01-04 01:15:36 INFO  Log - ✔ Appium driver launched. Session ID: 8e068062-ee26-4c65-970b-a4ca848dcb74
+2026-01-04 01:21:11 INFO  Log - item added tocart successfully
+2026-01-04 01:21:44 INFO  Log - item removed from cart successfully
+2026-01-04 01:33:02 INFO  Log - 🚀 Framework initialization started...
+2026-01-04 01:33:02 INFO  Log - ✔ Config loaded successfully.
+2026-01-04 01:33:17 INFO  Log - ✔ Appium driver launched. Session ID: 97dff4e1-2a0c-4cd1-bc30-51227cbe2b0c
+2026-01-04 01:38:49 INFO  Log - item added tocart successfully
+2026-01-04 01:39:25 INFO  Log - item removed from cart successfully
+2026-01-04 01:47:46 INFO  Log - 🚀 Framework initialization started...
+2026-01-04 01:47:46 INFO  Log - ✔ Config loaded successfully.
+2026-01-04 01:48:01 INFO  Log - ✔ Appium driver launched. Session ID: ee7cd89a-2458-44d8-b05c-7283af7584ff
+2026-01-04 01:53:23 INFO  Log - item added tocart successfully
+2026-01-04 01:53:57 INFO  Log - item removed from cart successfully
+2026-02-17 22:20:44 INFO  Log - 🚀 Framework initialization started...
+2026-02-17 22:20:44 INFO  Log - ✔ Config loaded successfully.
+2026-02-17 22:21:14 INFO  Log - 🚀 Framework initialization started...
+2026-02-17 22:21:14 INFO  Log - ✔ Config loaded successfully.
